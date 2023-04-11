@@ -1,0 +1,52 @@
+{
+    "BIOS": {
+        "SerialNumber": "",
+        "SystemSKUNumber": "",
+        "Model": "",
+        "Manufacturer": ""
+    },
+    "CPU": {
+        "Name": "",
+        "Cores": "",
+        "MaxSpeed": ""
+    },
+    "RAM": {
+        "Total": "",
+        "Count": "",
+        "Slots": [],
+        "Maximum": "",
+        "Modules": [
+            {
+                "DeviceLocator": "",
+                "PartNumber": "",
+                "Speed": "",
+                "Manufacturer": "",
+                "Rank": "",
+                "Capacity": "",
+                "SerialNumber": "",
+                "OtherTimingInfo": "",
+                "MemoryType": ""
+            }
+        ]
+    },
+    "NIC": [
+        {
+            "LinkSpeed": "",
+            "MAC": "",
+            "InterfaceDescription": ""
+        }
+    ],
+    "GPU": [
+        {
+            "Model": "",
+            "RAM": ""
+        }
+    ],
+    "HDD": [
+        {
+            "Model": "",
+            "MediaType": "",
+            "Size": ""
+        }
+    ]
+}
